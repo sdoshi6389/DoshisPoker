@@ -1,0 +1,93 @@
+Hand: 
+Sb bet 0.5
+Bb bet 1
+3 (utg) calls 1.0
+4 (co) calls 1.0
+5 (d) calls 1.0
+1 (sb) calls 1.0
+2 (bb) calls 1.0
+1 (sb) raises 3.0
+2 (bb) folds
+3 (utg) calls 3.0
+4 (co) calls 3.0
+5 (d) folds
+1 (sb) check 0
+3 (utg) raises 8.0
+4 (co) calls 8.0
+1 (sb) folds
+3 (utg) raises 18.0
+4 (co) folds
+
+
+Hand: 
+Sb bet 0.5
+Bb bet 1
+3 (utg) raises 3.0
+4 (co) folds
+5 (d) calls 3.0
+1 (sb) calls 3.0
+2 (bb) folds
+1 (sb) check 0
+3 (utg) raises 5.0
+5 (d) calls 5.0
+1 (sb) calls 5.0
+1 (sb) raises 8.0
+3 (utg) raises 20.0
+5 (d) folds
+1 (sb) calls 20.0
+1 (sb) raises 20.0
+3 (utg) calls 20.0
+
+
+Hand: 
+Sb bet 0.5
+Bb bet 1
+3 (utg) raises 2.5
+4 (co) calls 2.5
+5 (d) calls 2.5
+1 (sb) calls 2.5
+2 (bb) folds
+1 (sb) check 0
+3 (utg) raises 2.0
+4 (co) folds
+5 (d) calls 2.0
+1 (sb) folds
+3 (utg) check 0
+5 (d) raises 5.0
+3 (utg) calls 5.0
+3 (utg) check 0
+5 (d) calls 0.0
+
+
+Hand: 
+Sb bet 0.5
+Bb bet 1
+3 (utg) raises 2.5
+4 (co) folds
+5 (d) calls 2.5
+1 (sb) folds
+2 (bb) raises 6.0
+3 (utg) calls 6.0
+5 (d) folds
+2 (bb) raises 6.0
+3 (utg) calls 6.0
+2 (bb) raises 10.0
+3 (utg) calls 10.0
+2 (bb) check 0
+3 (utg) calls 0.0
+
+
+Hand: 
+Sb bet 0.5
+Bb bet 1
+3 (utg) folds
+4 (co) calls 1.0
+5 (d) calls 1.0
+1 (sb) calls 1.0
+2 (bb) calls 1.0
+1 (sb) check 0
+2 (bb) calls 0.0
+4 (co) raises 3.0
+5 (d) folds
+1 (sb) calls 3.0
+2 (bb) folds

@@ -1,0 +1,18 @@
+7/1/24: got the game working, at least the structure of it, things that need to be done next are that for the preflop,
+we need to make sure that the big blind has the opportunity to raise but make sure that if the big blind raises then the
+ action will close not on the big blind but on the small blind because right now thats what is being done but it doesnt
+ work for the first table round of betting for the preflop, also need to add changes to players balances when they bet,
+ raise, and fold, also create a game ledger that records every action taken instead of printing it to
+ the console, also get the cards rolling out (use the array in the hand class)
+
+ 7/5/24: finished pushing to files, got the cards rolling out, fixed preflop, changed balances, ledgers all done,
+ created text file of all the hand rankings, finish evaluation of hand next time then start coding two basic bots, the
+ first bot will play solely off its cards and the board, the second bot will play off its cards, the board, and the
+ actions of other players
+
+7/6/24: finished evaluation of hands, just have to go over small edge cases when chops occur in a flush, trips, two
+pair, pair, and high card, finish this next time and then start creating the first bot
+
+7/7/24: finished chop cases and incorporated them into program, there is a bug where if two people fold in the same
+round (especially when bb folds) there is an exception thrown in the folded players array because of removing players,
+debug this error next time and start creating bot in python

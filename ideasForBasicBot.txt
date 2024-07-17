@@ -1,0 +1,27 @@
+assuming a 7 player game, so table = sb bb utg lj hj co d
+
+preflop hand consideration: know strength of own hand and strength of position
+
+sb bb utg positions are weak, should fold or raise, very rarely just call unless getting the right price
+
+lj hj positions are ok, can call in many situations and start loosening up hand range
+
+co d positions are strong, can call in almost all situations if getting the right price, hand range can be a lot looser
+based off the action preflop
+
+weak positions should have around 15% raising range, 30% calling range
+ok positions can have around 30% raising range, 50% calling range
+strong positions can have around 40% raising range, 70% calling range
+(make sure to add a factor where even if a hand isnt in ones hand range, they still have a small chance of playing it)
+
+figure out what draws you have based on the board and your hand and what the strength of your opponents hand could
+possibly be
+
+create an equity calculator which compares two hands and sees how much equity you have versus those hands, could also
+compare multiple hands against each other
+
+based on the equity calculations, calculate what your expected win or loss would be based off of what you have predicted
+ other players hands could be and see if you are getting the right price to call, should you fold, or raise
+
+based on hands you think other players have, create arrays of scare cards or cards that you should be cautious to if
+they come on the next street

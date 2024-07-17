@@ -1,0 +1,92 @@
+Hand: 
+1, card One: 8-s
+1, card Two: 3-d
+2, card One: A-s
+2, card Two: 6-d
+3, card One: 10-h
+3, card Two: A-h
+4, card One: 4-s
+4, card Two: 6-s
+5, card One: 5-d
+5, card Two: 7-s
+flop: 8-c, K-d, 2-c, 
+turn: 8-c, K-d, 2-c, J-h, 
+river: 8-c, K-d, 2-c, J-h, J-d
+
+
+Hand: 
+1, card One: 7-s
+1, card Two: 9-s
+2, card One: 4-d
+2, card Two: J-s
+3, card One: A-c
+3, card Two: A-s
+4, card One: 3-c
+4, card Two: 5-h
+5, card One: 2-d
+5, card Two: K-c
+flop: 5-c,7-c,9-c,
+turn: 5-c,7-c,9-c,6-d,
+river: 5-c,7-c,9-c,6-d,K-d
+
+
+Hand: 
+1, card One: Q-c
+1, card Two: 4-c
+2, card One: J-d
+2, card Two: 8-h
+3, card One: 5-d
+3, card Two: 9-d
+4, card One: 8-d
+4, card Two: Q-h
+5, card One: 9-s
+5, card Two: J-s
+flop: A-s,8-s,7-h,
+turn: A-s,8-s,7-h,5-c,
+river: A-s,8-s,7-h,5-c,4-h
+
+
+Hand: 
+1, card One: 3-c
+1, card Two: A-s
+2, card One: 10-d
+2, card Two: 10-c
+3, card One: 9-d
+3, card Two: 8-d
+4, card One: 3-s
+4, card Two: J-c
+5, card One: Q-h
+5, card Two: 9-c
+flop: 7-c,9-s,7-d,
+turn: 7-c,9-s,7-d,2-h,
+river: 7-c,9-s,7-d,2-h,2-c
+
+
+Hand: 
+1, card One: 7-c
+1, card Two: 9-d
+2, card One: 9-c
+2, card Two: 6-s
+3, card One: K-d
+3, card Two: 5-h
+4, card One: 5-c
+4, card Two: A-s
+5, card One: 2-d
+5, card Two: 7-h
+flop: Q-d,J-h,3-d,
+Hand: 
+1, card One: 8-d
+1, card Two: 3-h
+2, card One: 2-h
+2, card Two: 7-h
+3, card One: 7-s
+3, card Two: 9-c
+4, card One: 4-d
+4, card Two: 6-c
+5, card One: 6-h
+5, card Two: K-h
+flop: 5-h,10-h,2-c,
+turn: 5-h,10-h,2-c,K-c,
+river: 5-h,10-h,2-c,K-c,6-s
+
+

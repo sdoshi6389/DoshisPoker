@@ -1,0 +1,309 @@
+royal flush
+king high straight flush
+queen high straight flush
+jack high straight flush
+ten high straight flush
+nine high straight flush
+eight high straight flush
+seven high straight flush
+six high straight flush
+five high straight flush
+ace quads
+king quads
+queen quads
+jack quads
+ten quads
+nine quads
+eight quads
+seven quads
+six quads
+five quads
+four quads
+three quads
+two quads
+aces full of kings
+aces full of queens
+aces full of jacks
+aces full of tens
+aces full of nines
+aces full of eights
+aces full of sevens
+aces full of sixes
+aces full of fives
+aces full of fours
+aces full of threes
+aces full of twos
+kings full of aces
+kings full of queens
+kings full of jacks
+kings full of tens
+kings full of nines
+kings full of eights
+kings full of sevens
+kings full of sixes
+kings full of fives
+kings full of fours
+kings full of threes
+kings full of twos
+queens full of aces
+queens full of kings
+queens full of jacks
+queens full of tens
+queens full of nines
+queens full of eights
+queens full of sevens
+queens full of sixes
+queens full of fives
+queens full of fours
+queens full of threes
+queens full of twos
+jacks full of aces
+jacks full of kings
+jacks full of queens
+jacks full of tens
+jacks full of nines
+jacks full of eights
+jacks full of sevens
+jacks full of sixes
+jacks full of fives
+jacks full of fours
+jacks full of threes
+jacks full of twos
+tens full of aces
+tens full of kings
+tens full of queens
+tens full of jacks
+tens full of nines
+tens full of eights
+tens full of sevens
+tens full of sixes
+tens full of fives
+tens full of fours
+tens full of threes
+tens full of twos
+nines full of aces
+nines full of kings
+nines full of queens
+nines full of jacks
+nines full of tens
+nines full of eights
+nines full of sevens
+nines full of sixes
+nines full of fives
+nines full of fours
+nines full of threes
+nines full of twos
+eights full of aces
+eights full of kings
+eights full of queens
+eights full of jacks
+eights full of tens
+eights full of nines
+eights full of sevens
+eights full of sixes
+eights full of fives
+eights full of fours
+eights full of threes
+eights full of twos
+sevens full of aces
+sevens full of kings
+sevens full of queens
+sevens full of jacks
+sevens full of tens
+sevens full of nines
+sevens full of eights
+sevens full of sixes
+sevens full of fives
+sevens full of fours
+sevens full of threes
+sevens full of twos
+sixes full of aces
+sixes full of kings
+sixes full of queens
+sixes full of jacks
+sixes full of tens
+sixes full of nines
+sixes full of eights
+sixes full of sevens
+sixes full of fives
+sixes full of fours
+sixes full of threes
+sixes full of twos
+fives full of aces
+fives full of kings
+fives full of queens
+fives full of jacks
+fives full of tens
+fives full of nines
+fives full of eights
+fives full of sevens
+fives full of sixes
+fives full of fours
+fives full of threes
+fives full of twos
+fours full of aces
+fours full of kings
+fours full of queens
+fours full of jacks
+fours full of tens
+fours full of nines
+fours full of eights
+fours full of sevens
+fours full of sixes
+fours full of fives
+fours full of threes
+fours full of twos
+threes full of aces
+threes full of kings
+threes full of queens
+threes full of jacks
+threes full of tens
+threes full of nines
+threes full of eights
+threes full of sevens
+threes full of sixes
+threes full of fives
+threes full of fours
+threes full of twos
+twos full of aces
+twos full of kings
+twos full of queens
+twos full of jacks
+twos full of tens
+twos full of nines
+twos full of eights
+twos full of sevens
+twos full of sixes
+twos full of fives
+twos full of fours
+twos full of threes
+ace high flush
+king high flush
+queen high flush
+jack high flush
+ten high flush
+nine high flush
+eight high flush
+seven high flush
+ace high straight
+king high straight
+queen high straight
+jack high straight
+ten high straight
+nine high straight
+eight high straight
+seven high straight
+six high straight
+five high straight
+ace trips
+king trips
+queen trips
+jack trips
+ten trips
+nine trips
+eight trips
+seven trips
+six trips
+five trips
+four trips
+three trips
+two trips
+ace king two pair
+ace queen two pair
+ace jack two pair
+ace ten two pair
+ace nine two pair
+ace eight two pair
+ace seven two pair
+ace six two pair
+ace five two pair
+ace four two pair
+ace three two pair
+ace two two pair
+king queen two pair
+king jack two pair
+king ten two pair
+king nine two pair
+king eight two pair
+king seven two pair
+king six two pair
+king five two pair
+king four two pair
+king three two pair
+king two two pair
+queen jack two pair
+queen ten two pair
+queen nine two pair
+queen eight two pair
+queen seven two pair
+queen six two pair
+queen five two pair
+queen four two pair
+queen three two pair
+queen two two pair
+jack ten two pair
+jack nine two pair
+jack eight two pair
+jack seven two pair
+jack six two pair
+jack five two pair
+jack four two pair
+jack three two pair
+jack two two pair
+ten nine two pair
+ten eight two pair
+ten seven two pair
+ten six two pair
+ten five two pair
+ten four two pair
+ten three two pair
+ten two two pair
+nine eight two pair
+nine seven two pair
+nine six two pair
+nine five two pair
+nine four two pair
+nine three two pair
+nine two two pair
+eight seven two pair
+eight six two pair
+eight five two pair
+eight four two pair
+eight three two pair
+eight two two pair
+seven six two pair
+seven five two pair
+seven four two pair
+seven three two pair
+seven two two pair
+six five two pair
+six four two pair
+six three two pair
+six two two pair
+five four two pair
+five three two pair
+five two two pair
+four three two pair
+four two two pair
+three two two pair
+ace pair
+king pair
+queen pair
+jack pair
+ten pair
+nine pair
+eight pair
+seven pair
+six pair
+five pair
+four pair
+three pair
+two pair
+ace high
+king high
+queen high
+jack high
+ten high
+nine high
+eight high
+seven high
